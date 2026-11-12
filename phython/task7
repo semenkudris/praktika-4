@@ -1,0 +1,4 @@
+import math
+mesto = int(input())
+kupe = math.ceil(mesto / 4)
+print(kupe)
