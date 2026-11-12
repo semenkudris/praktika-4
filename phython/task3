@@ -1,0 +1,5 @@
+list = list(input())
+print ('тысячи',list[0])
+print('сотки',list[1])
+print('десятки',list[2])
+print('единицы',list[3])
