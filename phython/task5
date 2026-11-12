@@ -1,4 +1,4 @@
 minutes = int(input())
 chas = minutes / 60
 chas = round(chas, 2)
-print(chas)
+print('это минуты', minutes, 'это часы', chas)
